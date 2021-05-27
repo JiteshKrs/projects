@@ -1,4 +1,5 @@
 # Frontend Mentor - Single price grid component
+https://jiteshkrs.github.io/projects/Web%20Development/Front%20End%20Web%20Dev/project%201/single-price-grid-component-master/index.html
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
